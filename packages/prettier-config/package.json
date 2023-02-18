@@ -1,0 +1,12 @@
+{
+  "name": "@kinolanka/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config",
+  "main": "index.json",
+  "repository": {
+    "url": "kinolanka/js-packages",
+    "directory": "packages/prettier-config"
+  },
+  "author": "kinolanka",
+  "license": "MIT"
+}
