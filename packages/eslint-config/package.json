@@ -1,0 +1,28 @@
+{
+  "name": "@kinolanka/eslint-config",
+  "version": "0.0.1",
+  "description": "Eslint config profiles for different types of projects.",
+  "repository": {
+    "url": "kinolanka/js-packages",
+    "directory": "packages/eslint-config"
+  },
+  "homepage": "https://github.com/kinolanka/js-packages/tree/main/packages/eslint-config#readme",
+  "author": "kinolanka",
+  "license": "MIT",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "peerDependencies": {
+    "eslint": ">=8",
+    "prettier": ">=2",
+    "typescript": ">=4.7.0"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.52.0",
+    "eslint-config-next": "^13.1.6",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-simple-import-sort": "^10.0.0",
+    "eslint-plugin-testing-library": "^5.10.2"
+  }
+}
