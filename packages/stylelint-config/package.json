@@ -1,0 +1,22 @@
+{
+  "name": "@kinolanka/stylelint-config",
+  "version": "0.0.1",
+  "description": "Stylelint config profiles for different types of projects.",
+  "repository": {
+    "url": "kinolanka/js-packages",
+    "directory": "packages/stylelint-config"
+  },
+  "homepage": "https://github.com/kinolanka/js-packages/tree/main/packages/stylelint-config#readme",
+  "author": "kinolanka",
+  "license": "MIT",
+  "keywords": [
+    "stylelint",
+    "stylelint-config"
+  ],
+  "peerDependencies": {
+    "stylelint": "^15.0.0"
+  },
+  "dependencies": {
+    "stylelint-config-standard": "^30.0.1"
+  }
+}
